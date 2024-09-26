@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://rjshkhr.github.io/cleanfolio',
-  title: 'JS.',
+  title: 'OA.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Okpara Angel',
+  role: 'Cyber Security Analyst',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'I can play a crucial role in protecting individuals, businesses, and society as a whole from cyber threats.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    github: 'https://github.com/okparaangel',
   },
 }
 
